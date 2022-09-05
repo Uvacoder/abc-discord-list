@@ -23,7 +23,7 @@ export default function Home() {
 					/>
 
 					<h1 className="text-4xl font-bold text-center text-gray-900 md:text-left dark:text-gray-100">
-						Discord List List
+						Sites List
 					</h1>
 
 					<input
@@ -39,20 +39,7 @@ export default function Home() {
 						more, for here is Discord List List.
 					</p>
 
-					<a
-						href="https://www.producthunt.com/posts/discord-list-list?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-discord-list-list"
-						target="_blank"
-						rel="noreferrer"
-						className="flex justify-center md:inline-block"
-					>
-						<img
-							src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=291721&theme=light"
-							alt="Discord List List - The ultimate list for finding the perfect Discord list. | Product Hunt"
-							width="200"
-							height="54"
-							className="block transition filter dark:md:grayscale dark:hover:grayscale-0"
-						/>
-					</a>
+					
 				</div>
 			</header>
 
